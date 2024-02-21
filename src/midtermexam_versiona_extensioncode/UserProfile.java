@@ -3,6 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+
+//i am adding this comment for my midterm exam ques 5
 package midtermexam_versiona_extensioncode;
 
 /**
@@ -17,7 +19,7 @@ package midtermexam_versiona_extensioncode;
 public class UserProfile 
 {
     
-    private String userID;//the userID
+    private String userID;
     private String genre;// the user's preferred genre of movie
     private String[] genres = {"Comedy", "Drama", "Action", "Mystery"};//available genres of movies
     
